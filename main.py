@@ -426,7 +426,7 @@ init_database()
 
 # Create GUI
 root = tk.Tk()
-root.title("BEST KULÜBÜ CONFİDENTİAL MAİL TACİZCİSİ")
+root.title("BEST KULÜBÜ CONFİDENTİAL MAİL SPAMLAYICISI")
 root.iconbitmap(resource_path("logo.ico"))
 current_song_var = tk.StringVar()
 
